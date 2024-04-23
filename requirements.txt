@@ -1,0 +1,4 @@
+aiohttp
+aiodns
+aiohttp[speedups]
+requests
